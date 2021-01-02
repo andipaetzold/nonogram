@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "module": "ES6",
+        "moduleResolution": "Node",
+        "target": "ES2019",
+        "lib": ["ES2019"],
+        "strict": true,
+        "importHelpers": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["src/**/*.spec.ts"]
+}
